@@ -1,0 +1,13 @@
+.cart h6 {
+  color: rgb(41, 177, 170);
+  text-align: center;
+}
+.cart .parent {
+  display: flex;
+}
+.cart .products {
+  flex: 2;
+}
+.cart .total-panel {
+  flex: 1;
+}
